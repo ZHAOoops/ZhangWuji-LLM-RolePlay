@@ -1,0 +1,17 @@
+# 缓存与编译文件
+__pycache__/
+*.pyc
+unsloth_compiled_cache/
+.ipynb_checkpoints/
+wandb/
+
+# 大文件与模型
+models/
+data/v0_raw/yitian_full.txt  # 原始小说可能有版权争议，建议不传
+*.safetensors
+*.bin
+*.pth
+
+# 日志与临时文件
+logs/
+*.jsonl
