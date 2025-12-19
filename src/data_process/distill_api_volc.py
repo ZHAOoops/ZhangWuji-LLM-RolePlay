@@ -7,7 +7,7 @@ import time
 
 # ================= 配置区 =================
 # 你提供的火山引擎配置
-API_KEY = "718e7455-5e90-4d7b-8c47-7a2ac5c89611"
+API_KEY = ""
 BASE_URL = "https://ark.cn-beijing.volces.com/api/v3"
 MODEL_NAME = "deepseek-v3-2-251201"
 
