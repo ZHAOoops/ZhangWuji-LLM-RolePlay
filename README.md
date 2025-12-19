@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <h3>📊 训练数据分布详图</h3>
+  <h3>📊 训练数据示例</h3>
   <img src="scripts/train_data.png" width="90%" />
 </div>
 
