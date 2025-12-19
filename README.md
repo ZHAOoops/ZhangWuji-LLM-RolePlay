@@ -46,7 +46,7 @@
 
 ## 📂 目录结构说明
 
-```text
+
 ZhangWuji_Project/
 ├── data/
 │   ├── dpo/                # DPO 偏好对数据集 (Chosen/Rejected)
