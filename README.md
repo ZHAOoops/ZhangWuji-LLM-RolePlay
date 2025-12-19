@@ -14,6 +14,20 @@
 
 ---
 
+## 📸 效果演示
+
+<div align="center">
+  <img src="scripts/demo1.png" width="45%" />
+  <img src="scripts/demo2.png" width="45%" />
+</div>
+
+<div align="center">
+  <p><em>训练数据分布示例</em></p>
+  <img src="scripts/train_data.png" width="60%" />
+</div>
+
+---
+
 ## 🛤 模型演进路线图 (Roadmap)
 
 | 版本 | 阶段 | 训练目标 | 关键成效 |
@@ -79,19 +93,7 @@ ZhangWuji_Project/
 
 ---
 
-## 📸 效果演示
 
-<div align="center">
-  <img src="scripts/demo1.png" width="45%" />
-  <img src="scripts/demo2.png" width="45%" />
-</div>
-
-<div align="center">
-  <p><em>训练数据分布示例</em></p>
-  <img src="scripts/train_data.png" width="60%" />
-</div>
-
----
 
 ## 🤝 参与贡献
 
