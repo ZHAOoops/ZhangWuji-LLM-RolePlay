@@ -17,13 +17,22 @@
 ## 📸 效果演示
 
 <div align="center">
-  <img src="scripts/demo1.png" width="45%" />
-  <img src="scripts/demo2.png" width="45%" />
+  <h3>对话交互演示 1</h3>
+  <img src="scripts/demo1.png" width="90%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <p><em>训练数据分布示例</em></p>
-  <img src="scripts/train_data.png" width="60%" />
+  <h3>对话交互演示 2</h3>
+  <img src="scripts/demo2.png" width="90%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>📊 训练数据分布详图</h3>
+  <img src="scripts/train_data.png" width="90%" />
 </div>
 
 ---
